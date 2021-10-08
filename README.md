@@ -7,13 +7,14 @@
 
 ## About me:
 
-I'm a Jr Developer 🤓
+I'm a Jr Developer 🚀
 
 I Love solve challenges by code and I'd like change the world using technologies ❣️
 
 - 🌱 I’m currently learning Java and C#
-- 👯 I’m looking for remote job opportunities to 
-- ⚡ Fun fact: I already have another bacharelor's degree in Social Science
+- 🧑‍🤝‍🧑 I'm looking for a remote developer job oppotunity to learn and share knowledges
+- 💻 I'm studying Computer Science
+- ⚡ Fun fact: I already have another bacharelor's degree (in Social Science)
  
 ## My knowlodges:
 
@@ -24,7 +25,7 @@ I Love solve challenges by code and I'd like change the world using technologies
 <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 
-## What I don't know, give me a few days 😁
+## Give me a few days to learn something new 🤓
 
 [![abicego github stats](https://github-readme-stats.vercel.app/api?username=abicego&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/abicego)
 
