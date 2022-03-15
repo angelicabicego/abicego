@@ -7,7 +7,7 @@
 
 ## About me:
 
-I'm a Jr Developer 🚀
+I'm Developer 🚀
 
 I Love solve challenges by code and I'd like change the world using technologies ❣️
 
