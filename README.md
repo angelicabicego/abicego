@@ -11,7 +11,7 @@ I'm Developer 🚀
 
 I Love solve challenges by code and I'd like change the world using technologies ❣️
 
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning SpringBoot and all the possibilities
 - 🧑‍🤝‍🧑 I work at Opus 127
 - 💻 I'm studying Computer Science
 - ⚡ Fun fact: I already have another bacharelor's degree (in Social Science)
