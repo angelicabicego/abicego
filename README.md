@@ -12,7 +12,6 @@ I'm Developer 🚀
 I Love solve challenges by code and I'd like change the world using technologies ❣️
 
 - 🌱 I'm currently learning Spring Boot and all its possibilities to build a Rest API
-- 🧑‍🤝‍🧑 I work at Opus 127
 - 💻 I'm studying Computer Science
 - ⚡ Fun fact: I already have another bacharelor's degree (in Social Science)
  
